@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-back {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 120vh;
+}
+
+.center {
+    text-align: center;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.heading {
+    font-size: 6vh;
+}
+
+.para {
+    font-size: 2.5vh;
+}
+
+.para2 {
+    padding: 10px;
+    text-align: center;
+}
+
+.top {
+    padding: 15vh;
+}
+
+.image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    padding: 20px;
+    margin-left: 30px;
+    height: 35vh;
+    width: 90vw;
+    background-size: cover;
+}
+
+.butt {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-width: 0px;
+    border-radius: 18px;
+    padding: 6px;
+    width: 25vh;
+    margin-left: 150px;
+}
+
+.main-back2 {
+    background-color: #03174c;
+    background-size: cover;
+    height: 130vh;
+}
+
+.image2 {
+    height: 40vh;
+    width: 95vw;
+}
+
+.heading1 {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 5vh;
+}
+
+.para3 {
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    font-size: 20px;
+}
+
+.bottompadding {
+    padding: 15px;
+}
+
+.butt1 {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-width: 0px;
+    border-radius: 18px;
+    padding: 6px;
+    width: 18vh;
+}
+
+.all {
+    color: #98a1bd;
+    font-size: 3vh;
+    font-family: "Bree Serif";
+}
+
+.image3 {
+    height: 22vh;
+    width: 35vw;
+    margin: 10px;
+}
+
+.para4 {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.all2 {
+    margin: 10px;
+}
